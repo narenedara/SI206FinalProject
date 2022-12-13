@@ -1,0 +1,142 @@
+Country, Death Rates
+Zimbabwe, 2.17
+Afghanistan, 3.79
+Albania, 1.08
+Algeria, 2.54
+Angola, 1.84
+Argentina, 1.33
+Armenia, 1.95
+Austria, 0.38
+Azerbaijan, 1.21
+Bahamas, 2.22
+Bangladesh, 1.45
+Belarus, 0.72
+Belgium, 0.71
+Belize, 1.0
+Benin, 0.58
+Bhutan, 0.03
+Bolivia, 1.99
+Bosnia and Herzegovina, 4.05
+Botswana, 0.85
+Brazil, 1.94
+Bulgaria, 2.95
+Burkina Faso, 1.79
+Burundi, 0.07
+Cambodia, 2.21
+Cameroon, 1.58
+Canada, 1.12
+Cape Verde, 0.65
+Central African Republic, 0.74
+Chad, 2.54
+Chile, 1.26
+China, 0.62
+Colombia, 2.25
+Comoros, 1.79
+Costa Rica, 0.79
+Croatia, 1.38
+Czech Republic, 0.92
+Denmark, 0.22
+Djibouti, 1.2
+Dominica, 0.47
+Dominican Republic, 0.67
+Ecuador, 3.53
+Egypt, 4.81
+El Salvador, 2.1
+Equatorial Guinea, 1.06
+Eritrea, 1.01
+Estonia, 0.46
+Ethiopia, 1.53
+Fiji, 1.28
+France, 0.42
+Gabon, 0.62
+Gambia, 2.96
+Georgia, 0.93
+Germany, 0.43
+Ghana, 0.85
+Greece, 0.63
+Grenada, 1.21
+Guatemala, 1.7
+Guinea, 1.22
+Guinea-Bissau, 1.99
+Guyana, 1.79
+Haiti, 2.54
+Honduras, 2.41
+Hungary, 2.23
+India, 1.19
+Indonesia, 2.39
+Iraq, 1.03
+Ireland, 0.49
+Israel, 0.25
+Italy, 0.74
+Jamaica, 2.25
+Japan, 0.2
+Jordan, 0.81
+Kazakhstan, 1.28
+Kenya, 1.66
+Kyrgyzstan, 1.45
+Latvia, 0.63
+Lebanon, 0.88
+Lesotho, 2.05
+Liberia, 3.66
+Lithuania, 0.74
+Madagascar, 2.09
+Malawi, 3.04
+Malaysia, 0.73
+Maldives, 0.17
+Mali, 2.26
+Malta, 0.7
+Mauritania, 1.57
+Mauritius, 0.37
+Mexico, 4.62
+Moldova, 2.0
+Mongolia, 0.21
+Montenegro, 0.98
+Morocco, 1.28
+Mozambique, 0.97
+Namibia, 2.4
+Nepal, 1.2
+Netherlands, 0.27
+Nicaragua, 1.61
+Niger, 3.33
+Nigeria, 1.18
+Pakistan, 1.94
+Palau, 0.12
+Panama, 0.85
+Papua New Guinea, 1.44
+Paraguay, 2.52
+Peru, 5.0
+Philippines, 1.6
+Poland, 1.86
+Portugal, 0.46
+Romania, 2.04
+Rwanda, 1.1
+Senegal, 2.21
+Serbia, 0.72
+Seychelles, 0.34
+Sierra Leone, 1.62
+Slovakia, 0.78
+Slovenia, 0.55
+South Africa, 2.54
+South Sudan, 0.75
+Spain, 0.85
+Sri Lanka, 2.5
+Sudan, 7.84
+Suriname, 1.71
+Sweden, 0.8
+Switzerland, 0.32
+Tajikistan, 0.7
+Thailand, 0.71
+Togo, 0.74
+Tonga, 0.07
+Trinidad and Tobago, 2.3
+Tunisia, 2.55
+Turkey, 0.6
+Tuvalu, 0.0
+Uganda, 2.14
+Ukraine, 2.1
+United Arab Emirates, 0.22
+United Kingdom, 0.88
+Uruguay, 0.76
+Uzbekistan, 0.66
+Yemen, 18.07
+Zambia, 1.2
